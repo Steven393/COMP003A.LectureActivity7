@@ -1,5 +1,5 @@
-﻿/*
-* Author: Jonathan Cruz
+/*
+* Author: Steven Gonzalez
 * Course: COMP-003A
 * Purpose: Array and List Activity Lecture
 * 
